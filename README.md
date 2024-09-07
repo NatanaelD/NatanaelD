@@ -27,6 +27,6 @@ Je suis un développeur de plugins Minecraft passionné par la création de nouv
 
 ---
 
-### 💬 N’hésite pas à me contacter si tu veux collaborer ou simplement discuter de développement Minecraft!
+### 💬 N’hésite pas à me contacter si tu veux collaborer ou simplement discuter !
 
 ![GIF animé de codage](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
