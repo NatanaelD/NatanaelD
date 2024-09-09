@@ -16,8 +16,8 @@ Je suis un développeur de plugins Minecraft passionné par la création de nouv
 
 ### 🚀 Projets Actuels
 
-- **[AntiAFKMine Plugin]([https://discord.gg/highcraft](https://github.com/NatanaelD/antiafkmine))** : Un plugin pour gérer les joueurs AFK sur les serveurs Skyblock.
-- - **[ChatStaff Plugin]([https://discord.gg/highcraft](https://github.com/NatanaelD/chatstaff))** : Un plugin pour discuter seulement avec votre staff en jeu.
+- **[AntiAFKMine Plugin](https://github.com/NatanaelD/antiafkmine)** : Un plugin pour gérer les joueurs AFK sur les serveurs Skyblock.
+- - **[ChatStaff Plugin](https://github.com/NatanaelD/chatstaff)** : Un plugin pour discuter seulement avec votre staff en jeu.
 - **[Mon Serveur Skyblock](https://discord.gg/highcraft)** : Rejoins-nous pour des aventures épiques sur notre serveur Skyblock!
 
 ---
